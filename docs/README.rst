@@ -14,7 +14,7 @@ DDBC Authority Time Database
 Schema Diagram
 ==============
 
-.. figure:: authority_time.png
+.. figure:: /ddbc/Authority-Databases/raw/master/docs/authority_time.png
    :scale: 100
    :align: left
    :alt: DDBC Authority Time Database - schema diagram

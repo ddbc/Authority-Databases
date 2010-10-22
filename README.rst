@@ -3,12 +3,13 @@
 DDBC Time Authority Database
 =============================
 
-:Author: Simon Wiles, DDBC
+.. contents::
+
+
 :Contact: digital_archives@ddbc.edu.tw
 :Web site: http://authority.ddbc.edu.tw/
 :Date: October, 2010
-
-.. contents::
+:Author: Simon Wiles, DDBC
 
 
 Description
@@ -34,21 +35,21 @@ License
 =======
 
 The data is distributed under a `Creative Commons Attribution-ShareAlike 3.0
-Unported`__. See `COPYING.rst`_ for the complete license.
+Unported`__. See `COPYING.rst` for the complete license.
 
 .. __: http://creativecommons.org/licenses/by-sa/3.0/
 
 
-Archive Contents
-================
+Contents
+========
 
-The archive contains the following files:
+This repository contains the following files:
 
 
-* `README.txt`_
+* `README.rst`
    This document, which is in reStructuredText format
 
-* `COPYING.txt <COPYING.html>`_
+* `COPYING.rst`
    Complete license information.
 
 * `SQL/`
@@ -67,7 +68,7 @@ The archive contains the following files:
       SQL dump of the Korean portion of the Time Authority Database only.
 
 * `docs/`
-   * `README.rst`_
+   * `README.rst`
       Database schematic documentation, detailing table and field structure,
       and internal relations.
 
@@ -146,12 +147,12 @@ Current Limitations
 The DDBC Time Authority Database has certain limitations.
 
 * Indication of the actual date ranges covered by dynasties, emperors and eras
-  is not complete (see above_). As such the database does not give 100%
-  reliable information about the historal duration of these periods.
+  is not complete (see `Dealing with prolepsis in East Asian calendars`_. As
+  such the database does not give 100% reliable information about the historal
+  duration of these periods.
 
 * The eclipse field indicates the day on which traditional sources report an
   eclipse, and is not fully populated.
 
 * Certain smaller, peripheral dynasties are not included in the database.
 
-.. _above: `Dealing with prolepsis in East Asian calendars`_
