@@ -1,6 +1,6 @@
 
 =============================
-DDBC Time Authority Database
+DDBC Authority Database
 =============================
 
 .. contents::
@@ -8,8 +8,8 @@ DDBC Time Authority Database
 
 :Contact: da@ddbc.edu.tw
 :Web site: http://authority.ddbc.edu.tw/
-:Date: October, 2010
-:Author: Simon Wiles, DDBC
+:Date: 2012-02-09
+:Author: Ray Chou, DDBC
 
 
 Description
@@ -52,7 +52,13 @@ This repository contains the following files:
 * `COPYING.rst`
    Complete license information.
 
-* `SQL/`
+* `authority_person/`
+   Person Authority Database
+
+* `authority_place/`
+   Place Authority Database
+
+* `authority_time/SQL/`
    * `authority_time.sql`
       SQL dump of the entire Time Authority Database, including data for
       the Chinese, Japanese and Korean calendars, complete with all
@@ -67,7 +73,7 @@ This repository contains the following files:
    * `authority_time_korean.sql`
       SQL dump of the Korean portion of the Time Authority Database only.
 
-* `docs/`
+* `authority_time/docs/`
    * `README.rst`
       Database schematic documentation, detailing table and field structure,
       and internal relations.
