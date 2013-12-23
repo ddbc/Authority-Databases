@@ -6,7 +6,7 @@ DDBC Time Authority Database
 .. contents::
 
 
-:Contact: digital_archives@ddbc.edu.tw
+:Contact: da@ddbc.edu.tw
 :Web site: http://authority.ddbc.edu.tw/
 :Date: October, 2010
 :Author: Simon Wiles, DDBC
