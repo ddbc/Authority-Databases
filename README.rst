@@ -1,15 +1,14 @@
 
-=============================
-DDBC Authority Database
-=============================
+===================================
+Buddhist Studies Authority Database
+===================================
 
 .. contents::
 
 
 :Contact: da@ddbc.edu.tw
 :Web site: http://authority.ddbc.edu.tw/
-:Date: 2012-02-09
-:Author: Ray Chou, DDBC
+:Date: 2014-09-26
 
 
 Description
