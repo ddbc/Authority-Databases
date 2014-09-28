@@ -1,7 +1,7 @@
 
-===================================
-Buddhist Studies Authority Database
-===================================
+====================================
+Buddhist Studies Authority Databases
+====================================
 
 .. contents::
 
