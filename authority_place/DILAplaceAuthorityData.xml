@@ -95,6 +95,67 @@
  <note>*應為Balkh(<ref target="http%3A%2F%2Fwww.eurasianhistory.com%2Fdata%2Farticles%2F2%2F1355.html">余太山</ref>，<ref target="http%3A%2F%2Fwww.eurasianhistory.com%2Fdata%2Fupload%2FYDSZYJ.pdf">?噠史研究中的若干問題</ref>，《中亞學刊》第1輯（1983年），中華書局，頁91-115)</note>
   <note type="category">地點</note>
 </place>
+<place xml:id="PL000000000010">
+ <placeName xml:lang="zho-Hant">波利城</placeName>
+ <location><geo>66.814548 36.98825</geo></location>
+ <district>阿富汗-巴爾赫省(Balkh)-DawlatAbad</district>
+ <note>*(佛百：4184)</note>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000000011">
+ <placeName xml:lang="jpn-Jpan">バーグラーン</placeName>
+ <placeName xml:lang="zho-Hant">縛伽浪國</placeName>
+ <placeName xml:lang="eng-Latn">Baghlan</placeName>
+ <location><geo>68.688956 36.128116</geo></location>
+ <district>阿富汗-巴爾赫省(Balkh)-Khulm</district>
+ <note>古西域國。此座標依據馬迦特比定之為<ref target="http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBaghlan">Baghlan</ref>，位於阿姆河以南之Doshi 河中游，今Kunduz 西南約60公里，由Surkhāb及安呾羅縛組成。此名亦經波斯佚名作者《世界疆域志》、比魯尼Canon著錄。（西域註：113；<ref target="http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBaghlan">http://en.wikipedia.org/wiki/Baghlan</ref>，2010.10.18）</note>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000000012">
+ <placeName xml:lang="jpn-Jpan">クルム</placeName>
+ <placeName xml:lang="zho-Hant">忽懍國</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">怱懍國</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">拂[打-丁+林]</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">忽懍</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">拂林</placeName>
+ <location><geo>67.686746 36.69163</geo></location>
+ <district>阿富汗-巴爾赫省(Balkh)-Khulm</district>
+ <note>即 Khulm。今阿富汗境內的 Tāsh-Qurghān 北郊。（西域註：114；<ref target="http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FKhulm">http://en.wikipedia.org/wiki/Khulm</ref>、<ref target="http%3A%2F%2Fwww.eurasianhistory.com%2Fdata%2Farticles%2Fa04%2F480.html">http://www.eurasianhistory.com/data/articles/a04/480.html</ref>，2009.03.25）</note>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000000017">
+ <placeName xml:lang="zho-Hant">羅爛城</placeName>
+ <placeName xml:lang="zho-Latn-hypy">LuolanCheng　</placeName>
+ <location><geo>67.82 34.82</geo></location>
+ <district>阿富汗-巴米揚省(Bamiyan)-BamyanCity</district>
+ <note>梵衍那國王城。《西域注》載，王治羅爛城（史圖五：63-64），有大城四五。水北流入烏滸河。其國都則為今阿富汗喀布爾西約150英里的巴米揚（Bāmīyān）城。現今多稱巴米安（Bamian）。（佛光：4633；史圖五：63-64；淵四．御定淵鑑類函．卷二百三十七：49；西域註：130；西域釋：16；<ref target="http%3A%2F%2Fccbs.ntu.edu.tw%2Fsilk%2Fsilkroad%2F03_bamiyan%2Fbamiyan.html">http://ccbs.ntu.edu.tw/silk/silkroad/03_bamiyan/bamiyan.html</ref>，2010.06.10）</note>
+  <note type="category">地點</note>
+</place>
+<place xml:id="PL000000000018">
+ <placeName xml:lang="zho-Hant">梵衍那國</placeName>
+ <placeName xml:lang="san-Latn">Bāmiyān</placeName>
+ <placeName xml:lang="zho-Latn-hypy">FanYanNaGuo</placeName>
+ <placeName xml:lang="eng-Latn">Bamian</placeName>
+ <placeName xml:lang="peo-Latn">Bāmīkān</placeName>
+ <placeName xml:lang="jpn-Jpan">バーミヤーン</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">范陽國</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">望衍國</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">帆延國</placeName>
+ <placeName type="alternative" xml:lang="san-Latn">Śiribāmiyān</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">梵衍國</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">犯引國</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">巴米安</placeName>
+ <placeName type="alternative" xml:lang="san-Latn">bāmiyana</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">失范延</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">失苑延</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">苑湯州</placeName>
+ <placeName type="alternative" xml:lang="zho-Hant">蚇延國</placeName>
+ <location><geo>67.82 34.82</geo></location>
+ <district>阿富汗-巴米揚省(Bamiyan)-BamyanCity</district>
+ <note>*位於阿富汗興都庫什山中的西域古國。詳址待考。《西域釋》載有三地，其三約位在koh-i-Baba峰之北，阿姆河支流Kunduz上游。
+《西域注》載，王治羅爛城（史圖五：63-64），有大城四五。水北流入烏滸河。其國都則為今阿富汗喀布爾西約150英里的巴米揚（Bāmīyān）城。現今多稱巴米安（Bamian）。（佛光：4633；史圖五：63-64；淵四．御定淵鑑類函．卷二百三十七：49；西域註：130；西域釋：16；<ref target="http%3A%2F%2Fccbs.ntu.edu.tw%2Fsilk%2Fsilkroad%2F03_bamiyan%2Fbamiyan.html">http://ccbs.ntu.edu.tw/silk/silkroad/03_bamiyan/bamiyan.html</ref>、<ref target="http%3A%2F%2Fjiten.biglobe.ne.jp%2Fj%2Ff6%2Fcd%2F6c%2F9afe47f3f15c0f391a793412bdaaa82d.htm">http://jiten.biglobe.ne.jp/j/f6/cd/6c/9afe47f3f15c0f391a793412bdaaa82d.htm</ref>，2010.06.10）</note>
+  <note type="category">廣大之陸上人文地理區域</note>
+</place>
       </listPlace>     
     </body>
       <back>

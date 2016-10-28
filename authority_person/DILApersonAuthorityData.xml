@@ -288,6 +288,73 @@
     <bibl>( CBETA X69n1355_p0360c03 ) 無門慧開禪師語錄</bibl>
   </listBibl>
 </person>
+<person xml:id="A000011" ana="historical">
+  <persName xml:lang="zho-Hant">一念居士</persName>
+  <persName type="alternative" xml:lang="zho-Hant">淥田一念</persName>
+  <sex value="1"/>
+  <note type="extensive">生平不詳，住淥田，為未聞西方者，編《西方直指》三卷。（《西方直指》卷首）</note>
+  <listBibl>
+    <bibl>( CBETA T49n2038_p0953a18 ) 一念居士</bibl>
+    <bibl>( CBETA X61n1163_p0624b08 ) 西方直指</bibl>
+  </listBibl>
+  <note type="worksBy">
+    編《西方直指》三卷（《卍續藏》X61）(遺失)
+  </note>
+  <note type="secondaryLit">
+    釋聖嚴 1992《明末佛教研究》，臺北：東初出版社，頁128。 (遺失)
+  </note>
+</person>
+<person xml:id="A000012" ana="historical">
+  <persName xml:lang="zho-Hant">一松</persName>
+  <persName type="alternative" xml:lang="zho-Hant">一松大師</persName>
+  <persName type="alternative" xml:lang="zho-Hant">松師</persName>
+  <sex value="1"/>
+  <note type="extensive">生卒年不詳。曉柔於〈新刻法華演義序〉中云：「法華演義者，乃一松大師之講錄也。師不知何許人，亦未明其時代。」而其講說有《法華經演義》七卷及《楞嚴秘錄》十卷。（〈新刻法華演義序〉）</note>
+  <listBibl>
+    <bibl>( CBETA X13n0283_p0044a05 ) 楞嚴經秘錄</bibl>
+    <bibl>( CBETA X33n0624_p0001b20 ) 新刻法華演義序</bibl>
+    <bibl>( CBETA X33n0625_p0049a06 ) 法華經演義</bibl>
+  </listBibl>
+  <note type="worksBy">
+    《楞嚴秘錄》十卷（一松大師 說；靈述 記，《卍續藏》X13）(遺失)
+    《法華經演義》七卷（一松大師 說；曉柔廣和 編定，《卍續藏》X33）(遺失)
+  </note>
+</person>
+<person xml:id="A000013" ana="historical">
+  <persName xml:lang="zho-Hant">一真</persName>
+  <sex value="1"/>
+  <note type="concise">【大正藏】No.2549《佛光國師語錄》日本 子元祖元語、侍者一真等編。（<ref target="http%3A%2F%2Fjinglu.cbeta.org%2Fcgi-bin%2Fjl_detail.pl%3Flang%3D%26sid%3Dkqort">http://jinglu.cbeta.org/cgi-bin/jl_detail.pl?lang=&amp;sid=kqort</ref>，2009.09.02）</note>
+</person>
+<person xml:id="A000014" ana="historical">
+  <persName xml:lang="zho-Hant">一然</persName>
+  <sex value="1"/>
+  <note type="concise">《三國遺事》繼金氏史記而作，收錄新羅高句麗百濟三國遺聞逸事者，高麗忠烈王時，僧一然所撰。（T49n2039_p0953c05）</note>
+  <listBibl>
+    <bibl>( CBETA T49n2039_p0953c07 ) 三國遺事</bibl>
+  </listBibl>
+</person>
+<person xml:id="A000015" ana="historical">
+  <persName xml:lang="zho-Hant">一絲文守</persName>
+  <persName xml:lang="jpn-Jpan">いっしぶんしゅ</persName>
+  <persName type="alternative" xml:lang="zho-Hant">定慧明光佛頂國師</persName>
+  <sex value="1"/>
+  <birth>
+    +1608-01-01 ~ +1608-12-31
+    <note>依記錄推算。</note>
+  </birth>
+  <death>
+    +1646-02-16 ~ +1647-02-04
+    <note>（疑年錄：420）</note>
+  </death>
+  <note type="birthDeathDateQuote">卒於：大清, 世祖, 順治, 三年，39歲</note>
+  <note type="placeOfOrigin">
+    <placeName>日本
+      <ref target="http://authority.ddbc.edu.tw/place/">PL000000048414</ref>
+    </placeName>
+  </note>
+  <note type="concise">日本人，姓源。【大正藏】No.2565《佛頂國師語錄》日本 一絲文守語．文光編
+（佛光：2724；疑年錄：420；日佛．冊103：146；<ref target="https%3A%2F%2Fja.wikipedia.org%2Fwiki%2F%25E4%25B8%2580%25E7%25B3%25B8%25E6%2596%2587%25E5%25AE%2588">https://ja.wikipedia.org/wiki/%E4%B8%80%E7%B3%B8%E6%96%87%E5%AE%88</ref>，2015.07.14）</note>
+</person>
       </listPerson>     
     </body>
       <back>
