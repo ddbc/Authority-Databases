@@ -1,7 +1,8 @@
-
 ====================================
 Buddhist Studies Authority Databases
 ====================================
+
+This repository is out of date, please use https://github.com/DILA-edu/Authority-Databases.
 
 .. contents::
 
